@@ -15,8 +15,7 @@
         $$("input[type='number']")
         [input]
 
-        $$("input[type='radio']").
-		
+        $$("input[type='radio']")
         (4) [input, input, input, input]0: input1: input2: input3: inputlength: 4__proto__: Array(0)
 
         $$("input[value='HTML']")
