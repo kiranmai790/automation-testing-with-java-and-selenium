@@ -3,7 +3,7 @@
   "version": "1.1",
   "name": "FirstSeleniumIDEProject",
   "url": "https://www.facebook.com",
-  "tests": [{
+  "tests12": [{
     "id": "501eba09-6bb7-473b-8b75-3ba0375da662",
     "name": "Google-in28Minutes",
     "commands": [{
